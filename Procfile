@@ -1,1 +1,1 @@
-web: gunicorn nursery.wsgi:application --log-file -
+web: gunicorn nursery.wsgi --log-file -
