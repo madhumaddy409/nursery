@@ -1,8 +1,14 @@
 # nursery
 
+#admin login
+https://nurserydemo.herokuapp.com/admin
+
+username: admin
+password: root
+
 ## Setup and Installation
 
-1) pip install requirements.txt
+1)pip install -r requirements.txt
 
 2)python manage.py makemigrations
 
